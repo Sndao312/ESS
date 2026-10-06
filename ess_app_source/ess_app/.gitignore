@@ -1,0 +1,13 @@
+# Private runtime configuration and credentials
+.env
+*.env
+!.env.example
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Local SQLite database and transient files
+data/ess_local.db
+data/ess_local.db-shm
+data/ess_local.db-wal

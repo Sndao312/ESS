@@ -1,0 +1,205 @@
+
+PAGE 4 PAP found refs 24 ['PAP-001', 'PAP-002', 'PAP-003'] ... ['PAP-022', 'PAP-023', 'PAP-024']
+PAP-001 | {'desc': 'Ramette papier A4 80 g — blanc', 'pack': 'feuilles Ramette de 500', 'price': '2 900 F'}
+PAP-002 | {'desc': 'Ramette papier A4 75 g', 'pack': 'feuilles Ramette de 500', 'price': '2 500 F'}
+PAP-003 | {'desc': 'Ramette papier A4 couleur (assortis)', 'pack': 'feuilles Ramette de 500', 'price': '4 500 F'}
+PAP-004 | {'desc': 'Ramette papier A3 80 g', 'pack': 'feuilles', 'price': '5 800 F'}
+PAP-005 | {'desc': 'Carton papier A4 (5 ramettes)', 'pack': 'Carton', 'price': '13 500 F'}
+PAP-006 | {'desc': 'Cahier 100 pages, grands carreaux', 'pack': 'Unité', 'price': '325 F'}
+PAP-007 | {'desc': 'Cahier 200 pages, grands carreaux', 'pack': 'Unité', 'price': '325 F'}
+PAP-008 | {'desc': 'Cahier travaux pratiques 100 pages', 'pack': 'Unité', 'price': '375 F'}
+PAP-009 | {'desc': 'Cahier double ligne 480 pages', 'pack': 'Unité', 'price': '80 F'}
+PAP-010 | {'desc': 'Protège-cahier (coloris assortis)', 'pack': 'Unité', 'price': '32 F'}
+PAP-011 | {'desc': 'Ardoise dure', 'pack': 'Unité', 'price': '350 F'}
+PAP-012 | {'desc': 'Enveloppes blanches format A4', 'pack': 'Paquet', 'price': '2 500 F'}
+PAP-013 | {'desc': 'Enveloppes blanches format A5', 'pack': 'Paquet', 'price': '1 500 F'}
+PAP-014 | {'desc': 'Étiquettes autocollantes blanches A4', 'pack': 'Paquet de 100', 'price': '2 500 F'}
+PAP-015 | {'desc': 'Post-it / pense-bête 76 x 76 mm', 'pack': 'Paquet', 'price': '4 000 F'}
+PAP-016 | {'desc': 'Bloc-notes A4, 50 feuilles', 'pack': 'Unité', 'price': '700 F'}
+PAP-017 | {'desc': 'Bristol couleur', 'pack': 'Paquet', 'price': '2 500 F'}
+PAP-018 | {'desc': 'Papier transparent pour rétroprojection', 'pack': 'Paquet', 'price': '2 500 F'}
+PAP-019 | {'desc': 'Spirales de reliure', 'pack': 'Paquet', 'price': '4 000 F'}
+PAP-020 | {'desc': "Carte d'identité scolaire", 'pack': 'Unité', 'price': '100 F'}
+PAP-021 | {'desc': 'Craie blanche lisse', 'pack': 'Carton', 'price': '16 500 F'}
+PAP-022 | {'desc': 'Craie couleur lisse', 'pack': 'Carton', 'price': '32 000 F'}
+PAP-023 | {'desc': 'Registre 300 pages', 'pack': 'Unité', 'price': '4 500 F'}
+PAP-024 | {'desc': '', 'pack': '', 'price': ''}
+
+PAGE 6 ECR found refs 13 ['ECR-001', 'ECR-002', 'ECR-003'] ... ['ECR-011', 'ECR-012', 'ECR-013']
+ECR-001 | {'desc': 'Stylo bille BIC bleu', 'pack': 'Paquet de 50', 'price': '2 200 F'}
+ECR-002 | {'desc': 'Stylo bille BIC rouge', 'pack': 'Paquet de 50', 'price': '2 200 F'}
+ECR-003 | {'desc': 'Stylo bille BIC noir', 'pack': 'Paquet de 50', 'price': '2 200 F'}
+ECR-004 | {'desc': 'Stylo bille qualité supérieure', 'pack': 'Unité', 'price': '700 F'}
+ECR-005 | {'desc': 'Crayon graphite HB', 'pack': 'Boîte de 12', 'price': '1 500 F'}
+ECR-006 | {'desc': 'Marqueur permanent', 'pack': 'Paquet de 12', 'price': '3 000 F'}
+ECR-007 | {'desc': 'Marqueur effaçable pour tableau blanc', 'pack': 'Boîte de 12', 'price': '6 000 F'}
+ECR-008 | {'desc': 'Surligneur fluorescent (assortis)', 'pack': 'Boîte de 10', 'price': '3 500 F'}
+ECR-009 | {'desc': 'Correcteur liquide', 'pack': 'Unité', 'price': '1 200 F'}
+ECR-010 | {'desc': 'Ruban correcteur', 'pack': 'Unité', 'price': '1 500 F'}
+ECR-011 | {'desc': 'Gomme blanche', 'pack': 'Unité', 'price': '200 F'}
+ECR-012 | {'desc': 'Taille-crayon métallique', 'pack': 'Unité', 'price': '250 F'}
+ECR-013 | {'desc': 'Marqueur industriel peinture / métal hors taxes, en francs CFA. Tarifs définitifs communiqués sur devis sous 24 pour les clients réguliers.', 'pack': 'Unité h ; remises dégressives à partir de', 'price': '1 600 F 10 articles et'}
+
+PAGE 7 CLA found refs 16 ['CLA-001', 'CLA-002', 'CLA-003'] ... ['CLA-014', 'CLA-015', 'CLA-016']
+CLA-001 | {'desc': 'Chemise cartonnée', 'pack': 'Unité', 'price': '70 F'}
+CLA-002 | {'desc': 'Chemise cartonnée à sangle / rabat', 'pack': 'Unité', 'price': '350 F'}
+CLA-003 | {'desc': 'Chemise plastique transparente', 'pack': 'Unité', 'price': '150 F'}
+CLA-004 | {'desc': 'Pochette perforée plastique', 'pack': 'Boîte de 100', 'price': '2 000 F'}
+CLA-005 | {'desc': 'Classeur à levier A4, dos 7 cm', 'pack': 'Unité', 'price': '1 500 F'}
+CLA-006 | {'desc': 'Classeur à anneaux A4, dos 5 cm', 'pack': 'Unité', 'price': '1 800 F'}
+CLA-007 | {'desc': 'Intercalaires A4, 12 onglets', 'pack': 'Jeu', 'price': '1 500 F'}
+CLA-008 | {'desc': 'Parapheur 20 compartiments', 'pack': 'Unité', 'price': '5 500 F'}
+CLA-009 | {'desc': 'Porte-documents accordéon 13 cases', 'pack': 'Unité', 'price': '4 500 F'}
+CLA-010 | {'desc': 'Boîte archives carton', 'pack': 'Lot de 10', 'price': '9 000 F'}
+CLA-011 | {'desc': 'Boîte archives plastique avec couvercle', 'pack': 'Unité', 'price': '3 600 F'}
+CLA-012 | {'desc': 'Sous-chemise cartonnée', 'pack': 'Unité', 'price': '100 F'}
+CLA-013 | {'desc': 'Couverture de reliure transparente A4', 'pack': 'Lot de 100', 'price': '3 000 F'}
+CLA-014 | {'desc': 'Porte-vues 60 vues A4', 'pack': 'Unité', 'price': '1 900 F'}
+CLA-015 | {'desc': 'Bannette / corbeille à courrier 3 niveaux', 'pack': 'Unité', 'price': '7 500 F'}
+CLA-016 | {'desc': 'Carnet de bord / main courante atelier hors taxes, en francs CFA. Tarifs définitifs communiqués sur devis sous 24 pour les clients réguliers.', 'pack': 'Unité h ; remises dégressives à partir de', 'price': '1 800 F 10 articles et'}
+
+PAGE 8 TAB found refs 20 ['TAB-001', 'TAB-002', 'TAB-003'] ... ['TAB-018', 'TAB-019', 'TAB-020']
+TAB-001 | {'desc': 'Tableau blanc mural simple face', 'pack': '60 x 90 cm', 'price': '18 000 F'}
+TAB-002 | {'desc': 'Tableau blanc mural simple face', 'pack': '60 x 120 cm', 'price': '22 000 F'}
+TAB-003 | {'desc': 'Tableau blanc mural simple face', 'pack': '90 x 120 cm', 'price': '28 000 F'}
+TAB-004 | {'desc': 'Tableau blanc double face à roulettes', 'pack': '70 x 100 cm', 'price': '45 000 F'}
+TAB-005 | {'desc': 'Tableau blanc double face à roulettes', 'pack': '90 x 120 cm', 'price': '60 000 F'}
+TAB-006 | {'desc': 'Tableau blanc double face à roulettes', 'pack': '120 x 180 cm', 'price': '85 000 F'}
+TAB-007 | {'desc': 'Marqueur effaçable pour tableau', 'pack': 'Boîte de 12', 'price': '6 000 F'}
+TAB-008 | {'desc': 'Éponge / effaceur magnétique', 'pack': 'Unité', 'price': '1 500 F'}
+TAB-009 | {'desc': 'Spray nettoyant tableau blanc', 'pack': 'Unité', 'price': '2 500 F'}
+TAB-010 | {'desc': "Panneau d'affichage en liège mural", 'pack': '60 x 90 cm', 'price': '12 000 F'}
+TAB-011 | {'desc': 'Tableau de suivi / planning', 'pack': '90 x 60 cm', 'price': '12 000 F'}
+TAB-012 | {'desc': 'Paperboard chevalet + bloc', 'pack': '70 x 100 cm', 'price': '52 000 F'}
+TAB-013 | {'desc': 'Kakémono / roll-up publicitaire', 'pack': '85 x 200 cm', 'price': '35 000 F'}
+TAB-014 | {'desc': 'Affiche sur mesure A3 (impression)', 'pack': 'Unité', 'price': '2 000 F'}
+TAB-015 | {'desc': 'Affiche sur mesure A1 (impression)', 'pack': 'Unité', 'price': '6 000 F'}
+TAB-016 | {'desc': 'Panneau de signalisation sécurité PVC', 'pack': '30 x 40 cm', 'price': '8 000 F'}
+TAB-017 | {'desc': 'Panneau photoluminescent évacuation', 'pack': '30 x 40 cm', 'price': '11 500 F'}
+TAB-018 | {'desc': 'Badge PVC personnalisé recto/verso', 'pack': 'Unité', 'price': '2 000 F'}
+TAB-019 | {'desc': 'Porte-badge + cordon personnalisé', 'pack': 'Unité', 'price': '1 200 F'}
+TAB-020 | {'desc': 'Tampon auto-encreur personnalisé hors taxes, en francs CFA. Tarifs définitifs communiqués sur devis sous 24 pour les clients réguliers.', 'pack': 'Unité h ; remises dégressives à partir de', 'price': '15 000 F 10 articles et'}
+
+PAGE 9 EQP found refs 26 ['EQP-001', 'EQP-002', 'EQP-003'] ... ['EQP-024', 'EQP-025', 'EQP-026']
+EQP-001 | {'desc': 'Agrafeuse petit modèle', 'pack': 'Unité', 'price': '2 000 F'}
+EQP-002 | {'desc': 'Agrafeuse moyen modèle', 'pack': 'Unité', 'price': '2 500 F'}
+EQP-003 | {'desc': 'Agrafeuse grand modèle', 'pack': 'Unité', 'price': '3 500 F'}
+EQP-004 | {'desc': 'Agrafeuse à levier (archives)', 'pack': 'Unité', 'price': '9 000 F'}
+EQP-005 | {'desc': 'Agrafes 26/6', 'pack': 'Boîte de 1 000', 'price': '400 F'}
+EQP-006 | {'desc': 'Perforatrice 2 trous', 'pack': 'Unité', 'price': '2 800 F'}
+EQP-007 | {'desc': 'Calculatrice de bureau 12 chiffres', 'pack': 'Unité', 'price': '4 000 F'}
+EQP-008 | {'desc': 'Ciseaux de bureau 21 cm', 'pack': 'Unité', 'price': '1 500 F'}
+EQP-009 | {'desc': 'Cutter professionnel 18 mm + lames', 'pack': 'Unité', 'price': '1 200 F'}
+EQP-010 | {'desc': 'Règle plastique 30 cm', 'pack': 'Unité', 'price': '350 F'}
+EQP-011 | {'desc': 'Tampon encreur de bureau', 'pack': 'Unité', 'price': '3 000 F'}
+EQP-012 | {'desc': 'Encre de rechange pour tampon', 'pack': 'Unité', 'price': '1 200 F'}
+EQP-013 | {'desc': 'Corbeille à papier', 'pack': 'Unité', 'price': '2 500 F'}
+EQP-014 | {'desc': 'Organiseur / porte-stylos de bureau', 'pack': 'Unité', 'price': '3 000 F'}
+EQP-015 | {'desc': 'Ruban adhésif transparent 19 mm', 'pack': 'Lot de 10', 'price': '2 000 F'}
+EQP-016 | {'desc': 'Ruban adhésif marron 50 mm', 'pack': 'Rouleau', 'price': '1 250 F'}
+EQP-017 | {'desc': 'Ruban de balisage au sol PVC', 'pack': 'Rouleau de 33 m', 'price': '5 500 F'}
+EQP-018 | {'desc': 'Colle bâton 40 g', 'pack': 'Unité', 'price': '800 F'}
+EQP-019 | {'desc': 'Trombones petit modèle', 'pack': 'Paquet', 'price': '1 500 F'}
+EQP-020 | {'desc': 'Trombones moyen modèle', 'pack': 'Paquet', 'price': '2 000 F'}
+EQP-021 | {'desc': 'Trombones grand modèle', 'pack': 'Paquet', 'price': '4 000 F'}
+EQP-022 | {'desc': 'Élastiques de bureau', 'pack': 'Sachet de 100 g', 'price': '1 200 F'}
+EQP-023 | {'desc': 'Piles alcalines AA', 'pack': 'Paquet de 4', 'price': '1 000 F'}
+EQP-024 | {'desc': 'Piles alcalines AAA', 'pack': 'Paquet de 4', 'price': '1 000 F'}
+EQP-025 | {'desc': 'Machine à plastifier A4', 'pack': 'Unité', 'price': '35 000 F'}
+EQP-026 | {'desc': '', 'pack': '', 'price': ''}
+
+PAGE 10 EQP found refs 2 ['EQP-027', 'EQP-028'] ... ['EQP-027', 'EQP-028']
+EQP-027 | {'desc': 'Pochettes de plastification A4', 'pack': 'Boîte de 100', 'price': '6 500 F'}
+EQP-028 | {'desc': 'Destructeur de documents hors taxes, en francs CFA. Tarifs définitifs communiqués sur devis sous 24 pour les clients réguliers.', 'pack': 'Unité h ; remises dégressives à partir de', 'price': '55 000 F 10 articles et'}
+
+PAGE 11 ORD found refs 15 ['ORD-001', 'ORD-002', 'ORD-003'] ... ['ORD-013', 'ORD-014', 'ORD-015']
+ORD-001 | {'desc': '19" PC de bureau — Intel Core i5 / 8 Go / SSD 512 Go + écran', 'pack': 'Ensemble', 'price': '185 000 F'}
+ORD-002 | {'desc': '22" PC de bureau — Intel Core i7 / 16 Go / SSD 512 Go + écran', 'pack': 'Ensemble', 'price': '265 000 F'}
+ORD-003 | {'desc': '24"', 'pack': 'Ensemble', 'price': '375 000 F'}
+ORD-004 | {'desc': 'PC tout-en-un 23,8" — Core i5 / 8 Go / SSD 512 Go', 'pack': 'Unité', 'price': '295 000 F'}
+ORD-005 | {'desc': 'Ordinateur portable 15,6" — Core i3 / 8 Go / SSD 256 Go', 'pack': 'Unité', 'price': '195 000 F'}
+ORD-006 | {'desc': 'Ordinateur portable 15,6" — Core i5 / 8 Go / SSD 512 Go', 'pack': 'Unité', 'price': '285 000 F'}
+ORD-007 | {'desc': 'Ordinateur portable 14" ultrafin — Core i5 / 16 Go', 'pack': 'Unité', 'price': '310 000 F'}
+ORD-008 | {'desc': 'Ordinateur portable 15,6" — Core i7 / 16 Go / SSD 512 Go', 'pack': 'Unité', 'price': '425 000 F'}
+ORD-009 | {'desc': 'Écran 22" Full HD', 'pack': 'Unité', 'price': '55 000 F'}
+ORD-010 | {'desc': 'Écran 24" Full HD', 'pack': 'Unité', 'price': '70 000 F'}
+ORD-011 | {'desc': "Station d'accueil / dock USB-C", 'pack': 'Unité', 'price': '45 000 F'}
+ORD-012 | {'desc': 'Sacoche / valise pour portable 15,6"', 'pack': 'Unité', 'price': '8 000 F'}
+ORD-013 | {'desc': 'Support surélevé pour portable', 'pack': 'Unité', 'price': '12 000 F'}
+ORD-014 | {'desc': 'Disque dur externe 1 To', 'pack': 'Unité', 'price': '40 000 F'}
+ORD-015 | {'desc': 'Disque dur externe 2 To hors taxes, en francs CFA. Tarifs définitifs communiqués sur devis sous 24 pour les clients réguliers.', 'pack': 'Unité h ; remises dégressives à partir de', 'price': '60 000 F 10 articles et'}
+
+PAGE 12 INF found refs 16 ['INF-001', 'INF-002', 'INF-003'] ... ['INF-014', 'INF-015', 'INF-016']
+INF-001 | {'desc': "Imprimante jet d'encre couleur", 'pack': 'Unité', 'price': '55 000 F'}
+INF-002 | {'desc': 'Imprimante laser monochrome Imprimante multifonction laser N&B; (impression / copie /', 'pack': 'Unité', 'price': '95 000 F'}
+INF-003 | {'desc': 'scan)', 'pack': 'Unité', 'price': '145 000 F'}
+INF-004 | {'desc': 'Imprimante multifonction laser couleur', 'pack': 'Unité', 'price': '320 000 F'}
+INF-005 | {'desc': 'Photocopieur — toutes marques', 'pack': 'Sur devis', 'price': 'Sur devis'}
+INF-006 | {'desc': 'Toner laser noir original — HP 203A (CF540A)', 'pack': 'Unité', 'price': '52 000 F'}
+INF-007 | {'desc': 'Toner laser noir original — HP 205A (CF530A)', 'pack': 'Unité', 'price': '45 000 F'}
+INF-008 | {'desc': 'Toner laser noir original — HP 26A (CF226A)', 'pack': 'Unité', 'price': '75 000 F'}
+INF-009 | {'desc': 'Toner laser noir original — HP 85A (CE285A)', 'pack': 'Unité', 'price': '38 000 F'}
+INF-010 | {'desc': 'Toner laser noir original — HP 84A (CF284A)', 'pack': 'Unité', 'price': '95 000 F'}
+INF-011 | {'desc': "Cartouche d'encre noire compatible (HP / Canon)", 'pack': 'Unité', 'price': '8 000 F'}
+INF-012 | {'desc': "Cartouche d'encre couleur compatible (HP / Canon)", 'pack': 'Unité', 'price': '10 000 F'}
+INF-013 | {'desc': 'Toner laser noir compatible (Brother / Samsung / HP)', 'pack': 'Unité', 'price': '15 000 F'}
+INF-014 | {'desc': 'Cartouche photocopieur RICOH MP C3003 / 3503', 'pack': 'Unité', 'price': 'Sur devis'}
+INF-015 | {'desc': 'Kit de maintenance / tambour', 'pack': 'Unité', 'price': 'Sur devis'}
+INF-016 | {'desc': 'Pochettes de plastification A4 hors taxes, en francs CFA. Tarifs définitifs communiqués sur devis sous 24 pour les clients réguliers.', 'pack': 'Boîte de 100 h ; remises dégressives à partir de', 'price': '6 500 F 10 articles et'}
+
+PAGE 13 ACC found refs 19 ['ACC-001', 'ACC-002', 'ACC-003'] ... ['ACC-017', 'ACC-018', 'ACC-019']
+ACC-001 | {'desc': 'Clavier USB AZERTY', 'pack': 'Unité', 'price': '5 000 F'}
+ACC-002 | {'desc': 'Souris optique filaire USB', 'pack': 'Unité', 'price': '2 000 F'}
+ACC-003 | {'desc': 'Souris sans fil', 'pack': 'Unité', 'price': '5 000 F'}
+ACC-004 | {'desc': 'Ensemble clavier + souris sans fil', 'pack': 'Ensemble', 'price': '12 000 F'}
+ACC-005 | {'desc': 'Tapis de souris', 'pack': 'Unité', 'price': '800 F'}
+ACC-006 | {'desc': 'Clé USB 16 Go', 'pack': 'Unité', 'price': '3 000 F'}
+ACC-007 | {'desc': 'Clé USB 32 Go', 'pack': 'Unité', 'price': '4 000 F'}
+ACC-008 | {'desc': 'Clé USB 64 Go', 'pack': 'Unité', 'price': '6 500 F'}
+ACC-009 | {'desc': 'Câble USB-A vers USB-B (imprimante), 1,8 m', 'pack': 'Unité', 'price': '1 200 F'}
+ACC-010 | {'desc': 'Câble HDMI 2 m', 'pack': 'Unité', 'price': '2 500 F'}
+ACC-011 | {'desc': 'Câble réseau RJ45 Cat. 6, 5 m', 'pack': 'Unité', 'price': '1 800 F'}
+ACC-012 | {'desc': 'Multiprise 6 prises avec interrupteur', 'pack': 'Unité', 'price': '5 000 F'}
+ACC-013 | {'desc': 'Onduleur 650 VA', 'pack': 'Unité', 'price': '32 000 F'}
+ACC-014 | {'desc': 'Onduleur 1 000 VA', 'pack': 'Unité', 'price': '55 000 F'}
+ACC-015 | {'desc': 'Casque-micro USB', 'pack': 'Unité', 'price': '12 000 F'}
+ACC-016 | {'desc': 'Webcam HD 1080p', 'pack': 'Unité', 'price': '18 000 F'}
+ACC-017 | {'desc': 'Vidéoprojecteur bureautique', 'pack': 'Unité', 'price': '165 000 F'}
+ACC-018 | {'desc': 'Écran de projection trépied', 'pack': '180 x 180 cm', 'price': '65 000 F'}
+ACC-019 | {'desc': 'Nettoyant écran + lingettes hors taxes, en francs CFA. Tarifs définitifs communiqués sur devis sous 24 pour les clients réguliers.', 'pack': 'Unité h ; remises dégressives à partir de', 'price': '3 000 F 10 articles et'}
+
+PAGE 14 HYG found refs 9 ['HYG-001', 'HYG-002', 'HYG-003'] ... ['HYG-007', 'HYG-008', 'HYG-009']
+HYG-001 | {'desc': 'Papier hygiénique', 'pack': 'Carton de 48 rouleaux', 'price': '9 000 F'}
+HYG-002 | {'desc': 'Essuie-mains', 'pack': 'Carton', 'price': '12 000 F'}
+HYG-003 | {'desc': 'Savon liquide 5 L', 'pack': 'Bidon', 'price': '7 500 F'}
+HYG-004 | {'desc': 'Gel hydroalcoolique 5 L', 'pack': 'Bidon', 'price': '15 000 F'}
+HYG-005 | {'desc': 'Désinfectant surfaces 5 L', 'pack': 'Bidon', 'price': '9 000 F'}
+HYG-006 | {'desc': 'Détergent multi-usages 5 L', 'pack': 'Bidon', 'price': '7 000 F'}
+HYG-007 | {'desc': 'Poubelle 50 L avec couvercle', 'pack': 'Unité', 'price': '6 000 F'}
+HYG-008 | {'desc': 'Sacs poubelle', 'pack': 'Rouleau de 50', 'price': '2 500 F'}
+HYG-009 | {'desc': 'Balai + pelle hors taxes, en francs CFA. Tarifs définitifs communiqués sur devis sous 24 pour les clients réguliers.', 'pack': 'Ensemble h ; remises dégressives à partir de', 'price': '3 500 F 10 articles et'}
+
+PAGE 15 MOB found refs 9 ['MOB-001', 'MOB-002', 'MOB-003'] ... ['MOB-007', 'MOB-008', 'MOB-009']
+MOB-001 | {'desc': 'Bureau droit 120 x 60 cm', 'pack': 'Unité', 'price': '55 000 F'}
+MOB-002 | {'desc': 'Bureau droit 140 x 70 cm', 'pack': 'Unité', 'price': '75 000 F'}
+MOB-003 | {'desc': "Bureau d'angle", 'pack': 'Unité', 'price': '120 000 F'}
+MOB-004 | {'desc': 'Caisson mobile 3 tiroirs', 'pack': 'Unité', 'price': '45 000 F'}
+MOB-005 | {'desc': 'Armoire basse 2 portes', 'pack': 'Unité', 'price': '85 000 F'}
+MOB-006 | {'desc': 'Armoire haute métallique 2 portes', 'pack': 'Unité', 'price': '135 000 F'}
+MOB-007 | {'desc': 'Chaise visiteur', 'pack': 'Unité', 'price': '25 000 F'}
+MOB-008 | {'desc': 'Chaise de bureau opérateur', 'pack': 'Unité', 'price': '45 000 F'}
+MOB-009 | {'desc': 'Fauteuil de direction Table de réunion 240 x 110 cm Table pliante Vestiaire métallique 2 cases hors taxes, en francs CFA. Tarifs définitifs communiqués sur devis sous 24 pour les clients réguliers.', 'pack': 'Unité Unité Unité Unité h ; remises dégressives à partir de', 'price': '95 000 F 195 000 F 35 000 F 145 000 F 10 articles et'}
+
+PAGE 16 EPI found refs 11 ['EPI-001', 'EPI-002', 'EPI-003'] ... ['EPI-009', 'EPI-010', 'EPI-011']
+EPI-001 | {'desc': 'Gants de manutention anti-coupure', 'pack': 'Paire', 'price': '3 500 F'}
+EPI-002 | {'desc': 'Gants nitrile jetables', 'pack': 'Boîte de 100', 'price': '8 000 F'}
+EPI-003 | {'desc': 'Lunettes de protection anti-choc', 'pack': 'Unité', 'price': '3 500 F'}
+EPI-004 | {'desc': "Bouchons d'oreille anti-bruit", 'pack': 'Boîte de 50 paires', 'price': '12 000 F'}
+EPI-005 | {'desc': 'Casque anti-bruit', 'pack': 'Unité', 'price': '18 000 F'}
+EPI-006 | {'desc': 'Chaussures de sécurité S3', 'pack': 'Paire', 'price': '28 000 F'}
+EPI-007 | {'desc': 'Masque anti-poussière FFP2', 'pack': 'Boîte de 20', 'price': '15 000 F'}
+EPI-008 | {'desc': 'Combinaison de travail 2 pièces', 'pack': 'Unité', 'price': '18 000 F'}
+EPI-009 | {'desc': 'Gilet haute visibilité', 'pack': 'Unité', 'price': '4 500 F'}
+EPI-010 | {'desc': 'Trousse de premiers secours réglementaire', 'pack': 'Unité', 'price': '35 000 F'}
+EPI-011 | {'desc': 'Extincteur — toutes capacités hors taxes, en francs CFA. Tarifs définitifs communiqués sur devis sous 24 pour les clients réguliers.', 'pack': 'Sur devis h ; remises dégressives à partir de', 'price': 'Sur devis 10 articles et'}
+TOTAL 180
