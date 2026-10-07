@@ -271,13 +271,16 @@ class WooCommerceClient:
             query = {key: value for key, value in params.items() if value is not None and value != ""}
             if query:
                 url += "?" + urlencode(query, doseq=True)
-        token = base64.b64encode(f"{self.consumer_key}:{self.consumer_secret}".encode("utf-8")).decode("ascii")
+               # InfinityFree bloque l'en-tête Authorization : authentification par
+        # paramètres d'URL (fallback officiel WooCommerce en HTTPS).
+        sep = "&" if "?" in url else "?"
+        url += sep + urlencode({"consumer_key": self.consumer_key,
+                                "consumer_secret": self.consumer_secret})
         data = json.dumps(payload, ensure_ascii=False).encode("utf-8") if payload is not None else None
         request = Request(url, data=data, method=method.upper(), headers={
-            "Authorization": "Basic " + token,
             "Accept": "application/json",
             "Content-Type": "application/json; charset=utf-8",
-            "User-Agent": "ESS-Storefront/1.0",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) ESS-Storefront/1.0",
         })
         try:
             with self._opener.open(request, timeout=REQUEST_TIMEOUT_SECONDS) as response:
